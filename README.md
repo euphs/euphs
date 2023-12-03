@@ -5,7 +5,6 @@
 - 🔭 Atualmente cursando ADS na instutuição UniCesumar
 - 🌱 Estudando Front-End (HTML,CSS, JS...)
 - 📫 Contato no Email: wo3901451@gmail.com
-- 😄 Pronome: Ele/Dele
 
 ##
 
